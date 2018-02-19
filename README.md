@@ -1,5 +1,5 @@
 
-Android WatchViewStub Sample
+Android WatchViewStub Sample (Edited)
 ===================================
 
 This sample demonstrates how to specify different layouts for round and rectangular screens.
